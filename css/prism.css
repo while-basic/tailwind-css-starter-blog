@@ -80,11 +80,11 @@
 }
 
 .token.boolean {
-  color: rgb(255, 88, 116);
+  color: rgb(88, 138, 255);
 }
 
 .token.number {
-  color: rgb(247, 140, 108);
+  color: rgb(247, 143, 108);
 }
 
 .token.constant,
@@ -96,7 +96,7 @@
 
 .token.selector,
 .token.doctype {
-  color: rgb(199, 146, 234);
+  color: rgb(146, 174, 234);
   font-style: italic;
 }
 
